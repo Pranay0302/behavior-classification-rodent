@@ -1,0 +1,49 @@
+COMPREHENSIVE BEHAVIORAL ANALYSIS STATISTICS
+==================================================
+
+OVERALL STATISTICS:
+Total frames: 81,793
+Number of tracks: 2
+Unique behaviors: 13
+Data quality: 92.3%
+
+BEHAVIORAL DISTRIBUTION:
+Freezing: 42,010 frames (51.36%)
+Sniffing: 14,871 frames (18.18%)
+Grooming: 9,999 frames (12.22%)
+Unknown: 6,412 frames (7.84%)
+Resting: 4,176 frames (5.11%)
+Slow Movement: 2,199 frames (2.69%)
+Thigmotaxis: 854 frames (1.04%)
+Jumping: 774 frames (0.95%)
+Circling: 256 frames (0.31%)
+Rearing: 219 frames (0.27%)
+Sleeping: 20 frames (0.02%)
+Moderate Movement: 2 frames (0.00%)
+Exploration: 1 frames (0.00%)
+
+BEHAVIORAL MOTIFS:
+Sniffing: 15,007 frames (18.35%)
+Freezing: 52,995 frames (64.79%)
+Grooming: 10,137 frames (12.39%)
+Rearing: 430 frames (0.53%)
+Exploration: 342 frames (0.42%)
+Thigmotaxis: 12,110 frames (14.81%)
+Circling: 5,438 frames (6.65%)
+Jumping: 774 frames (0.95%)
+
+TRANSITION MATRIX:
+From\To	Unknown	Resting	Freezing	Grooming	Slow Movement	Thigmotaxis	Rearing	Jumping	Circling	Sniffing	Sleeping	Moderate Movement	Exploration
+Unknown	0.952	0.014	0.000	0.012	0.005	0.007	0.002	0.000	0.003	0.003	0.000	0.000	0.000	
+Resting	0.011	0.000	0.591	0.305	0.041	0.021	0.007	0.014	0.000	0.010	0.000	0.000	0.000	
+Freezing	0.001	0.000	0.908	0.056	0.019	0.003	0.001	0.002	0.000	0.010	0.000	0.000	0.000	
+Grooming	0.001	0.350	0.001	0.426	0.041	0.032	0.007	0.017	0.002	0.125	0.000	0.000	0.000	
+Slow Movement	0.016	0.048	0.442	0.172	0.251	0.021	0.010	0.007	0.001	0.031	0.000	0.000	0.000	
+Thigmotaxis	0.131	0.331	0.004	0.131	0.066	0.064	0.015	0.045	0.026	0.185	0.002	0.000	0.000	
+Rearing	0.059	0.251	0.000	0.365	0.078	0.078	0.096	0.055	0.018	0.000	0.000	0.000	0.000	
+Jumping	0.023	0.167	0.000	0.190	0.035	0.026	0.026	0.328	0.045	0.159	0.001	0.000	0.000	
+Circling	0.055	0.039	0.000	0.121	0.023	0.113	0.008	0.086	0.242	0.293	0.012	0.004	0.004	
+Sniffing	0.000	0.001	0.028	0.086	0.008	0.007	0.000	0.009	0.005	0.855	0.001	0.000	0.000	
+Sleeping	0.250	0.000	0.000	0.000	0.000	0.000	0.000	0.100	0.050	0.600	0.000	0.000	0.000	
+Moderate Movement	1.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	
+Exploration	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	1.000	0.000	0.000	0.000	0.000	
